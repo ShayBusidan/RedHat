@@ -9,18 +9,6 @@ server:
 spring: 
   banner: 
     location: classpath:src/main/resources/banner.txt
-  datasource: 
-    url: jdbc:sqlserver://localhost:1433;databaseName=Lekach
-    username: SA
-    password: Shay!1234
-    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
-  jpa:
-    show-sql: true
-    properties: 
-        hibernate: 
-          default_schema: Ext
-basicauth:
-  user: ibm123
-  pass: ibm123
+
 api: 
   version: 1 
