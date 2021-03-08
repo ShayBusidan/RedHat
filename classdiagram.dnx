@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_jnimkBzIEeqVkq2tqtBfag" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_jnimkRzIEeqVkq2tqtBfag" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_jnjNoBzIEeqVkq2tqtBfag" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYE9YBzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYIAsBzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYIAsRzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYTm4BzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYUN8BzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYUN8RzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYU1ABzIEeqVkq2tqtBfag" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.application.internal.commandservices%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYE9YRzIEeqVkq2tqtBfag" x="2734"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYU1ARzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYgbMBzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYgbMRzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYhCQBzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYhCQRzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYhCQhzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYhCQxzIEeqVkq2tqtBfag" type="PackageContents" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.domain.model.aggregates%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYU1AhzIEeqVkq2tqtBfag" x="3898" y="3989"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYhpUBzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYiQYBzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYiQYRzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYsocBzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYsocRzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYtPgBzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYtPgRzIEeqVkq2tqtBfag" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.application.internal.businesserrors%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYhpURzIEeqVkq2tqtBfag" x="14244" y="3989"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYtPghzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYudoBzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYudoRzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYudohzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYudoxzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYvrwBzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYvrwRzIEeqVkq2tqtBfag" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.domain.model.valueobjects%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYtPgxzIEeqVkq2tqtBfag" x="435" y="11967"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYwS0BzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYw54BzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYw54RzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYxg8BzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYxg8RzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYyIABzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYyvEBzIEeqVkq2tqtBfag" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.domain.model.entities%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYwS0RzIEeqVkq2tqtBfag" x="25167" y="5983"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_oYyvERzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oYzWIBzIEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_oYzWIRzIEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYz9MBzIEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYz9MRzIEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oYz9MhzIEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_oYz9MxzIEeqVkq2tqtBfag" type="PackageContents" collapsed="true" canonical="false"/>
+    <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.hapoalim.microservice.domain.model.commands%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D$uml.Package"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oYyvEhzIEeqVkq2tqtBfag" x="541" y="7978"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_KcYJMBzJEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KcZ-YBzJEeqVkq2tqtBfag" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_KcZ-YRzJEeqVkq2tqtBfag" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_KcalcBzJEeqVkq2tqtBfag" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_KcalcRzJEeqVkq2tqtBfag" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_KcalchzJEeqVkq2tqtBfag" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_Kch6MBzJEeqVkq2tqtBfag" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_KdBCYBzJEeqVkq2tqtBfag" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_KdBpcBzJEeqVkq2tqtBfag" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EligibilityAssessmentEventPublisherService%5Bjcu%5Ename=EligibilityAssessmentEventPublisherService.java%5Bjpack%5Ename=com.hapoalim.microservice.application.internal.outboundservices%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KcYJMRzJEeqVkq2tqtBfag" x="15028" y="9525"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_oe5XEBzIEeqVkq2tqtBfag" source="_oYE9YBzIEeqVkq2tqtBfag" target="_oYhpUBzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oe6lMBzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe7MQBzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe7MQhzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe7MQRzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oe6lMRzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.application.internal.businesserrors%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oe5XERzIEeqVkq2tqtBfag" points="[0, 0, -8373, -2570]$[64, 709, -8309, -1861]$[8414, 709, 41, -1861]$[8373, 2570, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_omudYBzIEeqVkq2tqtBfag" id="(0.8000837053571427,0.9578216764548853)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_omw5oBzIEeqVkq2tqtBfag" id="(0.5000564789279212,0.1553657234383342)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_oe7zUBzIEeqVkq2tqtBfag" source="_oYE9YBzIEeqVkq2tqtBfag" target="_oYU1ARzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oe8aYBzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe8aYhzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe8aZBzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe8aYxzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oe8aYRzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.aggregates%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oe7zURzIEeqVkq2tqtBfag" points="[0, 0, 588, -2570]$[48, 709, 636, -1861]$[-547, 709, 41, -1861]$[-588, 2570, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om3AQBzIEeqVkq2tqtBfag" id="(0.6000837851905781,0.9578216764548853)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om4OYBzIEeqVkq2tqtBfag" id="(0.5000641741071428,0.1553657234383342)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_oe9BcBzIEeqVkq2tqtBfag" source="_oYE9YBzIEeqVkq2tqtBfag" target="_oYtPghzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oe9ogBzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe9oghzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe9ohBzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe9ogxzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oe9ogRzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.valueobjects%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oe9BcRzIEeqVkq2tqtBfag" points="[0, 0, 2158, -10274]$[17, 709, 2175, -9565]$[-4663, 709, -2505, -9565]$[-4663, 8687, -2505, -1587]$[-2139, 8687, 19, -1587]$[-2158, 10274, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om9G4BzIEeqVkq2tqtBfag" id="(0.2000837452738606,0.9578216764548853)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om-VABzIEeqVkq2tqtBfag" id="(0.25,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_oe-PkBzIEeqVkq2tqtBfag" source="_oYE9YBzIEeqVkq2tqtBfag" target="_oYyvERzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_oe-PkhzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe-2oBzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe-2ohzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_oe-2oRzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oe-PkxzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.commands%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oe-PkRzIEeqVkq2tqtBfag" points="[0, 0, 3370, -6285]$[33, 1238, 3403, -5047]$[-3342, 1238, 28, -5047]$[-3370, 6285, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onCmcBzIEeqVkq2tqtBfag" id="(0.4000837652322194,0.9578216764548853)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onD0kBzIEeqVkq2tqtBfag" id="(0.3333333333333333,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_oe-2oxzIEeqVkq2tqtBfag" source="_oYU1ARzIEeqVkq2tqtBfag" target="_oYtPghzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ofAEwBzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofAEwhzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofAExBzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofAEwxzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ofAEwRzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.valueobjects%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_oe-2pBzIEeqVkq2tqtBfag" points="[0, 0, 2645, -6559]$[53, 4698, 2698, -1861]$[-2586, 4698, 59, -1861]$[-2645, 6559, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om6DkBzIEeqVkq2tqtBfag" id="(0.66673086056231,0.9578216764548847)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_om6qoBzIEeqVkq2tqtBfag" id="(0.7499999999999999,0.15536572343833324)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_ofAr0BzIEeqVkq2tqtBfag" source="_oYU1ARzIEeqVkq2tqtBfag" target="_oYyvERzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ofBS4BzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofBS4hzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofB58BzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofBS4xzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ofBS4RzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.commands%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ofAr0RzIEeqVkq2tqtBfag" points="[0, 0, 659, -2570]$[28, 709, 687, -1861]$[-605, 709, 54, -1861]$[-659, 2570, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onFpwBzIEeqVkq2tqtBfag" id="(0.3333974876519756,0.9578216764548847)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onGQ0BzIEeqVkq2tqtBfag" id="(0.6666666666666666,0.1553657234383342)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_ofB58RzIEeqVkq2tqtBfag" source="_oYyvERzIEeqVkq2tqtBfag" target="_oYtPghzIEeqVkq2tqtBfag" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ofChABzIEeqVkq2tqtBfag" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofChAhzIEeqVkq2tqtBfag" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofDIERzIEeqVkq2tqtBfag" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_ofDIEBzIEeqVkq2tqtBfag" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ofChARzIEeqVkq2tqtBfag" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jpack-dep%5Bjpack%5Ename=com.hapoalim.microservice.domain.model.valueobjects%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=poalimmicroservice%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ofB58hzIEeqVkq2tqtBfag" points="[39, 101, 39, -2469]$[39, 2587, 39, 17]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onAKMBzIEeqVkq2tqtBfag" id="(0.5,0.9578216764548853)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_onAxQBzIEeqVkq2tqtBfag" id="(0.5,0.15536572343833324)"/>
+  </edges>
+</umlnotation:UMLDiagram>

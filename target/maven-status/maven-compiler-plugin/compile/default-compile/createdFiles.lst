@@ -1,0 +1,7 @@
+lekach\microservice\RedHatApplication.class
+lekach\microservice\interfaces\rest\transform\RedHatResponse.class
+lekach\microservice\infrastructure\utils\HttpBasicAuthenticationAdapter.class
+lekach\microservice\application\internal\services\RedHatService.class
+lekach\microservice\interfaces\rest\dto\HeaderData.class
+lekach\microservice\interfaces\rest\RedHatController.class
+lekach\microservice\infrastructure\utils\UserStatusSingleton.class

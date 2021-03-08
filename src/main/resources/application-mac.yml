@@ -1,0 +1,17 @@
+spring: 
+  banner: 
+    location: classpath:src/main/resources/banner.txt
+  server:
+    port: 8080
+  datasource: 
+    url: jdbc:sqlserver://localhost:1433;databaseName=Lekach
+    username: SA
+    password: Shay!1234
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+  jpa:
+    show-sql: true
+    properties: 
+        hibernate: 
+          default_schema: Ext
+api: 
+  version: 1 
